@@ -1,3 +1,6 @@
+<img width="557" height="480" alt="Screenshot 2026-08-12 at 5 31 31 pm" src="https://github.com/user-attachments/assets/6b58948f-08bd-467a-9db9-321d536dca67" />
+
+
 SPEEDY MOUSE
 
 This is a fully custom, functional mouse in the shape of a sports car that I designed and will be 3D printed to hold all the hardware parts, which I tried to make sleek like a sports car. The navigation is as speedy as the car! Built for Macondo, Hack Club. 
