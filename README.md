@@ -1,3 +1,7 @@
+Wiring Diagram and Design
+
+<img width="593" height="712" alt="Screenshot 2026-10-06 at 11 44 02 am" src="https://github.com/user-attachments/assets/1810db59-7057-408c-8fc2-2cd1d48d7f04" />
+
 <img width="557" height="480" alt="Screenshot 2026-08-12 at 5 31 31 pm" src="https://github.com/user-attachments/assets/6b58948f-08bd-467a-9db9-321d536dca67" />
 
 
