@@ -34,8 +34,6 @@ ASSEMBLY INSTRUCTIONS:
 
 BOM:
 
-BOM:
-
 | Name | Description | Link | Cost |
 | :--- | :--- | :--- | :--- |
 | Bambu Lab Serpentine ergonomic wireless mouse HK009 DIY Creative Model Components 3D Printer Parts | The kit that has all the contents for the mouse inside it | [AliExpress Link](https://www.aliexpress.com/item/1005008784328664.html?spm=a2g0o.productlist.main.22.67d570b4tqk6Js&algo_pvid=8c0648df-0bf5-4d55-95fe-afb1f1084477&algo_exp_id=8c0648df-0bf5-4d55-95fe-afb1f1084477-42&pdp_ext_f=%7B%22order%22%3A%22497%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21AUD%216.92%215.47%21%21%214.78%213.78%21%40210311c217847171039446395e0e65%2112000046653112082%21sea%21AU%217860082513%21ABX%211%210%21n_tag%3A-29910%3Bd%3A83ef7480%3Bm03_new_user%3A-29895%3BpisId%3A5000000211080202&curPageLogUid=t8CCnfrfZlez&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008784328664%7C_p_origin_prod%3A) | $6.47 |
