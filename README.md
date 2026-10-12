@@ -6,7 +6,8 @@ Speedy Mouse
 
 Wiring Diagram and Design
 
-<img width="593" height="712" alt="Screenshot 2026-10-06 at 11 44 02 am" src="https://github.com/user-attachments/assets/1810db59-7057-408c-8fc2-2cd1d48d7f04" />
+<img width="144" height="170" alt="Screenshot 2026-10-12 at 8 25 52 pm" src="https://github.com/user-attachments/assets/9bab8005-360c-4148-8fde-469b118d4d46" />
+
 
 This is a fully custom, functional mouse in the shape of a sports car that I designed and will be 3D printed to hold all the hardware parts, which I tried to make sleek like a sports car. The navigation is as speedy as the car! Built for Macondo, Hack Club. 
 
